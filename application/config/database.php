@@ -72,9 +72,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
  
 $host = 'localhost';
-$user = 'u824923095_deal_iphone';
-$pass = 'F$t!a[g0';
-$data = 'u824923095_deal_iphone';
+$user = 'u824923095_new_flip';
+$pass = '3Tj[IpPP/B4t';
+$data = 'u824923095_new_flip';
 
 $active_group = 'default';
 $query_builder = TRUE;
